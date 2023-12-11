@@ -35,12 +35,18 @@ Outputs:
 
 
 **Wiring Diagram:**
+
+
 ![](Circuit.png)
 
 
 **Block Diagrams:**
+
+
 ![](Diagram.png)
 
 
 **Schematic:**
+
+
 ![](Schematic.png)
